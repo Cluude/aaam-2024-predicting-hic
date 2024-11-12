@@ -1,5 +1,5 @@
 # aaam-2024-predicting-hic
-Code associated with the short communication: Westrom, C., Tanczos, R.L., Adanty, K., and Shimada, S.D., “A Method to Predict Head Injury Criterion during Frontal NCAP Tests,” Traffic Injury Prevention, Seoul, South Korea, 2024, doi:10.1080/15389588.2024.2408211.
+Code associated with the short communication: Westrom, C., Tanczos, R.L., Adanty, K., and Shimada, S.D., “A Method to Predict Head Injury Criterion during Frontal NCAP Tests,” Traffic Injury Prevention, Seoul, South Korea, 2024, doi:10.1080/15389588.2024.2415263.
 
 # Abstract
 **Objective**: To develop a method to predict 15 ms Head Injury Criterion (HIC15) in frontal passenger vehicle impacts using simple pulse functions in frontal passenger vehicle impacts, where only occupant peak head acceleration and head impact duration are known.
